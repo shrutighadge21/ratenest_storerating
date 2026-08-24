@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Prisma generated files
+/generated/
+prisma/dev.db
+
+# Build output
+dist/
+
+# AI/editor generated files
+.agents/
+.claude/
+.windsurf/
+
+# Temporary/debug scripts
+test_*.js
+update_*.js
