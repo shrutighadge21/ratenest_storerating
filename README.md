@@ -2,6 +2,16 @@
 
 A full-stack web application built for the **FullStack Intern Coding Challenge**. It allows users to browse stores, submit ratings, and manage the platform via role-based access control.
 
+---
+
+## 🎬 Project Demo Video & Walkthrough
+
+[![Watch Demo Video](https://img.shields.io/badge/▶%EF%B8%8F%20Watch%20Demo%20Video-Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/16QB4Ho1_tVlqkeN-2U2dhc1CCjnVHOyj/view?usp=sharing)
+
+> 🎥 **[Click here to watch the complete Video Demonstration & Feature Walkthrough](https://drive.google.com/file/d/16QB4Ho1_tVlqkeN-2U2dhc1CCjnVHOyj/view?usp=sharing)**
+
+---
+
 ## Tech Stack
 - **Backend:** ExpressJs (Node.js) + Prisma ORM
 - **Database:** SQLite (Zero configuration needed)
